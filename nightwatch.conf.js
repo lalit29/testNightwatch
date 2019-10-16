@@ -21,7 +21,7 @@ module.exports={
           "retry_attempts": 5
         },
 
-      //"launchUrl":argv.url,
+      //"launchUrl":argv.url,//
 
       "silent" : true,
       "screenshots" : {
